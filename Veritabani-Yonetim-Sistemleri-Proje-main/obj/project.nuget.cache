@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ig7qbobI7nM/BkWRuRHb9L6M9q32+1PQE7zfmENDry0m2dpjWtnjxsxTbDVUWmZMx2+m3TEfliht+sa5NJYGZg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Win10\\Desktop\\Veritabani-Yonetim-Sistemleri-Proje-main\\WinFormsApp2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Win10\\.nuget\\packages\\npgsql\\6.0.1\\npgsql.6.0.1.nupkg.sha512",
+    "C:\\Users\\Win10\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
+    "C:\\Users\\Win10\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Win10\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
